@@ -1,5 +1,5 @@
 # mipskeyboard
-Piano keyboard that can play, record, and demo music. Written in MIPS. 
+Piano keyboard that can play, record, and demo music. Written in assembly language. 
 
 Run the .jar file, then go to File -> Open, and open keyboard.asm. Click build from the buttons towards the top, and then click the green play button. 
 
